@@ -58,6 +58,7 @@
       "globals": "global",
       "ui": "views"
     },
+    "material-icon-theme.activeIconPack": "nest",
     "material-icon-theme.files.associations": {
       "ormconfig.json": "database",
       "tsconfig.json": "tune",
@@ -67,4 +68,13 @@
     "polacode.transparentBackground": true,
     "polacode.shadow": "rgba(0, 0, 0, 0) 0px 0 0",
     "window.zoomLevel": 2,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[python]": {
+      "editor.formatOnType": true
+    },
+    "[prisma]": {
+      "editor.defaultFormatter": "Prisma.prisma",
+      "editor.formatOnSave": true
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
   }
